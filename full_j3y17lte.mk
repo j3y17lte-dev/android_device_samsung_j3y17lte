@@ -7,12 +7,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/on5xelte/device.mk)
+$(call inherit-product, device/samsung/j3y17lte/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := on5xelte
-PRODUCT_NAME := full_on5xelte
-PRODUCT_MODEL := SM-G570F
+PRODUCT_DEVICE := j3y17lte
+PRODUCT_NAME := full_j3y17lte
+PRODUCT_MODEL := SM-J330FN
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung

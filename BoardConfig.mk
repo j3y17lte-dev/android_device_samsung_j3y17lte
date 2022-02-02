@@ -4,11 +4,10 @@
 DEVICE_PATH := device/samsung/on5xelte
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := on5xeltexx,on5xelteks,on5xelte
+TARGET_OTA_ASSERT_DEVICE := j3y17lte
 
 # Kernel
 TARGET_KERNEL_CONFIG := on5xelte_00_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := /home/nick/android/lineage/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # Bluetooth

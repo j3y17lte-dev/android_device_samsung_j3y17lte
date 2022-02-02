@@ -4,5 +4,5 @@
  * SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
-    <string name="wifi_tether_configure_ssid_default" translatable="false">Galaxy J5 Prime</string>
+    <string name="wifi_tether_configure_ssid_default" translatable="false">Galaxy J3 (2017)</string>
 </resources>
