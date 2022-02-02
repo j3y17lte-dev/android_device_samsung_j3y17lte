@@ -7,7 +7,7 @@ DEVICE_PATH := device/samsung/on5xelte
 TARGET_OTA_ASSERT_DEVICE := j3y17lte
 
 # Kernel
-TARGET_KERNEL_CONFIG := on5xelte_00_defconfig
+TARGET_KERNEL_CONFIG := exynos7570-j3y17lte_defconfig
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # Bluetooth
