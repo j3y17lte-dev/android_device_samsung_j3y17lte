@@ -1,2 +1,2 @@
-add_lunch_combo lineage_on5xelte-eng
-add_lunch_combo lineage_on5xelte-userdebug
+add_lunch_combo lineage_j3y17lte-eng
+add_lunch_combo lineage_j3y17lte-userdebug

@@ -1,1 +1,1 @@
-# adroid_device_on5xelte_lineage
+# adroid_device_samsung_j3y17lte
